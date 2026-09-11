@@ -1,0 +1,6 @@
+aws_region = "ap-southeast-2"
+ami_id = "ami-0453a43f384c588e1"
+instance_type = "t2.micro"
+key_name = "demo-key"
+vpc_cidr = "10.0.0.0/16"
+public_subnet_cidr = "10.0.0.0/24"
